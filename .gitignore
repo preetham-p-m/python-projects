@@ -6,3 +6,4 @@
 
 # Other Caches
 .mypy_cache
+__pycache__
