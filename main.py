@@ -1,8 +1,5 @@
-from numpy_examples import array
-
-
 def main():
-    array.multiply()
+    pass
 
 
 if __name__ == "__main__":
