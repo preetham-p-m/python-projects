@@ -1,0 +1,8 @@
+# Virtual Environment
+.venv
+
+# Formatter cache
+.ruff_cache
+
+# Other Caches
+.mypy_cache
